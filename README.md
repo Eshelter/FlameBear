@@ -68,4 +68,3 @@ The Application does not gather precise information about the location of your m
 
 * * *
 
-本隐私政策页面由 [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/) 生成
