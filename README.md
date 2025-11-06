@@ -12,8 +12,6 @@
 *   在應用程序上花費的時間
 *   您在移動設備上使用的操作系統
 
-The Application does not gather precise information about the location of your mobile device.
-
 該應用程序會收集您設備的位置，這有助於服務提供商確定您的大致地理位置，並通過以下方式使用：
 
 *   地理定位服務：服務提供商利用位置數據提供個性化內容、相關推薦和基於位置的服務等功能。
